@@ -1,0 +1,105 @@
+2020-03-23 14:48:47,789 INFO [test_login.py(build_data:25)] - test_data=[('17316251225', 'yc111111')]
+2020-03-23 14:51:21,195 INFO [test_login.py(build_data:25)] - test_data=[('17316251225', 'yc111111')]
+2020-03-23 14:51:29,221 INFO [test_login.py(test_login:49)] - username=17316251225 pwd=yc111111 
+2020-03-23 14:51:29,221 INFO [base_page.py(find_element:13)] - location=('class name', 'login_icon')
+2020-03-23 14:51:31,844 INFO [base_page.py(find_element:13)] - location=('id', 'account')
+2020-03-23 14:51:32,016 INFO [base_page.py(find_element:13)] - location=('id', 'password')
+2020-03-23 14:51:32,151 INFO [base_page.py(find_element:13)] - location=('id', 'loginrec')
+2020-03-23 15:05:32,152 INFO [test_login.py(build_data:25)] - test_data=[('17316251225', 'yc111111')]
+2020-03-23 15:05:38,884 INFO [test_login.py(test_login:49)] - username=17316251225 pwd=yc111111 
+2020-03-23 15:05:38,885 INFO [base_page.py(find_element:13)] - location=('class name', 'login_icon')
+2020-03-23 15:05:41,280 INFO [base_page.py(find_element:13)] - location=('id', 'account')
+2020-03-23 15:05:41,431 INFO [base_page.py(find_element:13)] - location=('id', 'password')
+2020-03-23 15:05:41,548 INFO [base_page.py(find_element:13)] - location=('id', 'loginrec')
+2020-03-23 15:06:46,549 INFO [test_login.py(build_data:25)] - test_data=[('17316251225', 'yc111111')]
+2020-03-23 15:06:54,060 INFO [test_login.py(test_login:49)] - username=17316251225 pwd=yc111111 
+2020-03-23 15:06:54,060 INFO [base_page.py(find_element:13)] - location=('class name', 'login_icon')
+2020-03-23 15:06:56,478 INFO [base_page.py(find_element:13)] - location=('id', 'account')
+2020-03-23 15:06:56,624 INFO [base_page.py(find_element:13)] - location=('id', 'password')
+2020-03-23 15:06:56,737 INFO [base_page.py(find_element:13)] - location=('id', 'loginrec')
+2020-03-23 15:06:59,486 INFO [base_page.py(find_element:13)] - location=('xpath', '<p>转文字 / 翻译</p>')
+2020-03-23 15:15:15,773 INFO [test_login.py(build_data:25)] - test_data=[('17316251225', 'yc111111')]
+2020-03-23 15:15:24,687 INFO [base_page.py(find_element:13)] - location=('xpath', '<p>转文字 / 翻译</p>')
+2020-03-23 15:20:09,630 INFO [test_login.py(build_data:25)] - test_data=[('17316251225', 'yc111111')]
+2020-03-23 15:20:16,418 INFO [base_page.py(find_element:13)] - location=('xpath', '<p>转文字 / 翻译</p>')
+2020-03-23 15:21:49,921 INFO [test_login.py(build_data:25)] - test_data=[('17316251225', 'yc111111')]
+2020-03-23 15:21:56,749 INFO [base_page.py(find_element:13)] - location=('xpath', "//*[@id='menu_list']/li[2]/p/font/font")
+2020-03-23 15:23:04,494 INFO [test_login.py(build_data:25)] - test_data=[('17316251225', 'yc111111')]
+2020-03-23 15:23:11,371 INFO [base_page.py(find_element:13)] - location=('xpath', "//*[@id='menu_list']/li[2]/p/font/font")
+2020-03-23 16:01:17,591 INFO [test_login.py(build_data:25)] - test_data=[('17316251225', 'yc111111')]
+2020-03-23 16:01:24,375 INFO [base_page.py(find_element:13)] - location=('xpath', "//*[@id='menu_list']/li[2]/p/font/font")
+2020-03-23 16:12:48,609 INFO [test_login.py(build_data:25)] - test_data=[('17316251225', 'yc111111')]
+2020-03-23 16:12:58,690 INFO [base_page.py(find_element:13)] - location=('xpath', "//*[@id='menu_list']/li[2]/p/font/font")
+2020-03-23 16:17:29,633 INFO [test_login.py(build_data:25)] - test_data=[('17316251225', 'yc111111')]
+2020-03-23 16:17:36,312 INFO [test_login.py(test_login:49)] - username=17316251225 pwd=yc111111 
+2020-03-23 16:17:36,312 INFO [base_page.py(find_element:13)] - location=('class name', 'login_icon')
+2020-03-23 16:17:38,788 INFO [base_page.py(find_element:13)] - location=('id', 'account')
+2020-03-23 16:17:38,936 INFO [base_page.py(find_element:13)] - location=('id', 'password')
+2020-03-23 16:17:39,042 INFO [base_page.py(find_element:13)] - location=('id', 'loginrec')
+2020-03-23 16:17:41,713 INFO [base_page.py(find_element:13)] - location=('xpath', "//*[@id='menu_list']/li[2]/p/font/font")
+2020-03-23 16:19:26,536 INFO [test_login.py(build_data:25)] - test_data=[('17316251225', 'yc111111')]
+2020-03-23 16:19:32,705 INFO [test_login.py(test_login:49)] - username=17316251225 pwd=yc111111 
+2020-03-23 16:19:32,705 INFO [base_page.py(find_element:13)] - location=('class name', 'login_icon')
+2020-03-23 16:19:35,190 INFO [base_page.py(find_element:13)] - location=('id', 'account')
+2020-03-23 16:19:35,370 INFO [base_page.py(find_element:13)] - location=('id', 'password')
+2020-03-23 16:19:35,486 INFO [base_page.py(find_element:13)] - location=('id', 'loginrec')
+2020-03-23 16:19:38,144 INFO [base_page.py(find_element:13)] - location=('xpath', "//*[@id='menu_list']/li[2]/p/font/font")
+2020-03-23 17:07:15,151 INFO [test_login.py(build_data:25)] - test_data=[('17316251225', 'yc111111')]
+2020-03-23 17:07:22,003 INFO [test_login.py(test_login:49)] - username=17316251225 pwd=yc111111 
+2020-03-23 17:07:22,003 INFO [base_page.py(find_element:13)] - location=('class name', 'login_icon')
+2020-03-23 17:07:24,519 INFO [base_page.py(find_element:13)] - location=('id', 'account')
+2020-03-23 17:07:24,679 INFO [base_page.py(find_element:13)] - location=('id', 'password')
+2020-03-23 17:07:24,812 INFO [base_page.py(find_element:13)] - location=('id', 'loginrec')
+2020-03-23 17:07:28,602 INFO [base_page.py(find_element:13)] - location=('xpath', "//*[@id='menu_list']/li[2]/p/font/font")
+2020-03-23 17:13:35,695 INFO [test_login.py(build_data:25)] - test_data=[('17316251225', 'yc111111')]
+2020-03-23 17:13:45,854 INFO [test_login.py(test_login:49)] - username=17316251225 pwd=yc111111 
+2020-03-23 17:13:45,854 INFO [base_page.py(find_element:13)] - location=('class name', 'login_icon')
+2020-03-23 17:13:48,212 INFO [base_page.py(find_element:13)] - location=('id', 'account')
+2020-03-23 17:13:48,371 INFO [base_page.py(find_element:13)] - location=('id', 'password')
+2020-03-23 17:13:48,475 INFO [base_page.py(find_element:13)] - location=('id', 'loginrec')
+2020-03-23 17:13:50,895 INFO [base_page.py(find_element:13)] - location=('xpath', "//*[@id='menu_list']/li[2]/p/font/font")
+2020-03-23 17:18:14,082 INFO [test_login.py(build_data:25)] - test_data=[('17316251225', 'yc111111')]
+2020-03-23 17:18:20,755 INFO [test_login.py(test_login:49)] - username=17316251225 pwd=yc111111 
+2020-03-23 17:18:20,755 INFO [base_page.py(find_element:13)] - location=('class name', 'login_icon')
+2020-03-23 17:18:23,326 INFO [base_page.py(find_element:13)] - location=('id', 'account')
+2020-03-23 17:18:23,484 INFO [base_page.py(find_element:13)] - location=('id', 'password')
+2020-03-23 17:18:23,620 INFO [base_page.py(find_element:13)] - location=('id', 'loginrec')
+2020-03-23 17:18:26,483 INFO [base_page.py(find_element:13)] - location=('xpath', "//*[@id='menu_list']/li[2]/p")
+2020-03-23 17:20:08,774 INFO [test_login.py(build_data:25)] - test_data=[('13716957736', 'yc111111')]
+2020-03-23 17:20:15,397 INFO [test_login.py(test_login:49)] - username=13716957736 pwd=yc111111 
+2020-03-23 17:20:15,397 INFO [base_page.py(find_element:13)] - location=('class name', 'login_icon')
+2020-03-23 17:20:18,072 INFO [base_page.py(find_element:13)] - location=('id', 'account')
+2020-03-23 17:20:18,276 INFO [base_page.py(find_element:13)] - location=('id', 'password')
+2020-03-23 17:20:18,422 INFO [base_page.py(find_element:13)] - location=('id', 'loginrec')
+2020-03-23 17:20:21,005 INFO [base_page.py(find_element:13)] - location=('xpath', "//*[@id='menu_list']/li[2]/p")
+2020-03-23 17:33:23,813 INFO [test_login.py(build_data:25)] - test_data=[('13716957736', 'yc111111')]
+2020-03-23 17:34:05,092 INFO [test_login.py(build_data:25)] - test_data=[('13716957736', 'yc111111')]
+2020-03-23 17:34:12,439 INFO [test_login.py(test_login:49)] - username=13716957736 pwd=yc111111 
+2020-03-23 17:34:12,439 INFO [base_page.py(find_element:13)] - location=('class name', 'login_icon')
+2020-03-23 17:34:14,552 INFO [base_page.py(find_element:13)] - location=('id', 'account')
+2020-03-23 17:34:14,777 INFO [base_page.py(find_element:13)] - location=('id', 'password')
+2020-03-23 17:34:14,931 INFO [base_page.py(find_element:13)] - location=('id', 'loginrec')
+2020-03-23 17:34:18,221 INFO [base_page.py(find_element:13)] - location=('xpath', "//*[@id='menu_list']/li[2]/p")
+2020-03-23 17:35:10,472 INFO [test_login.py(build_data:25)] - test_data=[('13716957736', 'yc111111')]
+2020-03-23 17:36:00,214 INFO [test_login.py(build_data:25)] - test_data=[('13716957736', 'yc111111')]
+2020-03-23 17:36:06,221 INFO [test_login.py(build_data:25)] - test_data=[('13716957736', 'yc111111')]
+2020-03-23 17:36:14,018 INFO [test_login.py(test_login:49)] - username=13716957736 pwd=yc111111 
+2020-03-23 17:36:14,019 INFO [base_page.py(find_element:13)] - location=('class name', 'login_icon')
+2020-03-23 17:36:16,584 INFO [base_page.py(find_element:13)] - location=('id', 'account')
+2020-03-23 17:36:16,727 INFO [base_page.py(find_element:13)] - location=('id', 'password')
+2020-03-23 17:36:16,874 INFO [base_page.py(find_element:13)] - location=('id', 'loginrec')
+2020-03-23 17:36:20,336 INFO [base_page.py(find_element:13)] - location=('xpath', "//*[@id='menu_list']/li[2]/p")
+2020-03-23 23:13:55,249 INFO [test_login.py(build_data:25)] - test_data=[('13716957736', 'yc111111')]
+2020-03-23 23:14:06,384 INFO [test_login.py(test_login:49)] - username=13716957736 pwd=yc111111 
+2020-03-23 23:14:06,384 INFO [base_page.py(find_element:13)] - location=('class name', 'login_icon')
+2020-03-23 23:14:09,525 INFO [base_page.py(find_element:13)] - location=('id', 'account')
+2020-03-23 23:14:09,970 INFO [base_page.py(find_element:13)] - location=('id', 'password')
+2020-03-23 23:14:10,281 INFO [base_page.py(find_element:13)] - location=('id', 'loginrec')
+2020-03-23 23:14:14,823 INFO [base_page.py(find_element:13)] - location=('xpath', "//*[@id='menu_list']/li[2]/p")
+2020-03-23 23:54:05,682 INFO [test_login.py(build_data:25)] - test_data=[('13716957736', 'yc111111')]
+2020-03-23 23:54:13,694 INFO [test_login.py(test_login:49)] - username=13716957736 pwd=yc111111 
+2020-03-23 23:54:13,694 INFO [base_page.py(find_element:13)] - location=('class name', 'login_icon')
+2020-03-23 23:54:16,744 INFO [base_page.py(find_element:13)] - location=('id', 'account')
+2020-03-23 23:54:17,330 INFO [base_page.py(find_element:13)] - location=('id', 'password')
+2020-03-23 23:54:17,530 INFO [base_page.py(find_element:13)] - location=('id', 'loginrec')
+2020-03-23 23:54:19,984 INFO [base_page.py(find_element:13)] - location=('xpath', "//*[@id='menu_list']/li[2]/p")

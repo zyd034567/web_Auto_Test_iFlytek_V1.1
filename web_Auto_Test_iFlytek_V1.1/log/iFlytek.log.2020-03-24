@@ -1,0 +1,625 @@
+2020-03-24 09:23:35,885 INFO [test_login.py(build_data:25)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 09:23:47,419 INFO [test_login.py(test_login:49)] - username=13716957736 pwd=yc111111 
+2020-03-24 09:23:47,420 INFO [base_page.py(find_element:13)] - location=('class name', 'login_icon')
+2020-03-24 09:23:49,859 INFO [base_page.py(find_element:13)] - location=('id', 'account')
+2020-03-24 09:23:50,173 INFO [base_page.py(find_element:13)] - location=('id', 'password')
+2020-03-24 09:23:50,460 INFO [base_page.py(find_element:13)] - location=('id', 'loginrec')
+2020-03-24 09:23:53,123 INFO [base_page.py(find_element:13)] - location=('xpath', "//*[@id='menu_list']/li[2]/p")
+2020-03-24 09:44:21,893 INFO [test_login.py(build_data:25)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 09:44:31,230 INFO [test_login.py(test_login:49)] - username=13716957736 pwd=yc111111 
+2020-03-24 09:44:31,231 INFO [base_page.py(find_element:15)] - location=('class name', 'login_icon')
+2020-03-24 09:44:33,514 INFO [base_page.py(find_element:15)] - location=('id', 'account')
+2020-03-24 09:44:36,344 INFO [base_page.py(find_element:15)] - location=('xpath', "//*[@id='menu_list']/li[2]/p")
+2020-03-24 09:46:52,195 INFO [test_login.py(build_data:25)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 09:46:59,730 INFO [test_login.py(test_login:49)] - username=13716957736 pwd=yc111111 
+2020-03-24 09:46:59,731 INFO [base_page.py(find_element:15)] - location=('class name', 'login_icon')
+2020-03-24 09:47:02,633 INFO [base_page.py(find_element:15)] - location=('id', 'account')
+2020-03-24 09:47:03,195 INFO [base_page.py(find_element:15)] - location=('id', 'password')
+2020-03-24 09:47:03,540 INFO [base_page.py(find_element:15)] - location=('id', 'loginrec')
+2020-03-24 09:47:06,176 INFO [base_page.py(find_element:15)] - location=('xpath', "//*[@id='menu_list']/li[2]/p")
+2020-03-24 09:51:31,927 INFO [test_login.py(build_data:25)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 09:51:42,712 INFO [test_login.py(test_login:49)] - username=13716957736 pwd=yc111111 
+2020-03-24 09:51:42,712 INFO [base_page.py(find_element:15)] - location=('class name', 'login_icon')
+2020-03-24 09:51:45,265 INFO [base_page.py(find_element:15)] - location=('id', 'account')
+2020-03-24 09:51:47,135 INFO [base_page.py(find_element:15)] - location=('id', 'password')
+2020-03-24 09:51:47,412 INFO [base_page.py(find_element:15)] - location=('id', 'loginrec')
+2020-03-24 09:51:50,179 INFO [base_page.py(find_element:15)] - location=('xpath', "//*[@id='menu_list']/li[2]/p")
+2020-03-24 09:57:11,806 INFO [base_page.py(find_element:15)] - location=('xpath', "//*[@id='czksc1']/font/font")
+2020-03-24 09:57:31,702 INFO [test_login.py(build_data:25)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 09:57:40,439 INFO [test_login.py(test_login:49)] - username=13716957736 pwd=yc111111 
+2020-03-24 09:57:40,439 INFO [base_page.py(find_element:15)] - location=('class name', 'login_icon')
+2020-03-24 09:57:43,200 INFO [base_page.py(find_element:15)] - location=('id', 'account')
+2020-03-24 09:57:43,783 INFO [base_page.py(find_element:15)] - location=('id', 'password')
+2020-03-24 09:57:44,138 INFO [base_page.py(find_element:15)] - location=('id', 'loginrec')
+2020-03-24 09:57:46,741 INFO [base_page.py(find_element:15)] - location=('xpath', "//*[@id='czksc1']/font/font")
+2020-03-24 10:21:41,344 INFO [test_login.py(build_data:25)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 10:21:51,843 INFO [base_page.py(find_element:15)] - location=('xpath', "//*[@id='czksc1']/font/font")
+2020-03-24 10:23:22,946 INFO [test_login.py(build_data:25)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 10:23:30,795 INFO [base_page.py(find_element:15)] - location=('xpath', "//*[@id='czksc1']/font/font")
+2020-03-24 10:29:54,915 INFO [test_login.py(build_data:25)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 10:30:04,545 INFO [base_page.py(find_element:15)] - location=('xpath', "//*[@id='czksc1']/font/font")
+2020-03-24 10:31:49,642 INFO [test_login.py(build_data:25)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 10:32:00,799 INFO [base_page.py(find_element:15)] - location=('id', 'czksc1')
+2020-03-24 10:36:33,008 INFO [test_login.py(build_data:25)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 10:36:44,148 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 10:57:26,034 INFO [test_login.py(build_data:25)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 10:57:37,122 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 10:57:40,492 INFO [base_page.py(find_element:15)] - location=('link text', '中文机器快转')
+2020-03-24 10:59:19,825 INFO [test_login.py(build_data:25)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 10:59:27,922 INFO [test_login.py(test_login:49)] - username=13716957736 pwd=yc111111 
+2020-03-24 10:59:27,923 INFO [base_page.py(find_element:15)] - location=('class name', 'login_icon')
+2020-03-24 10:59:32,128 INFO [base_page.py(find_element:15)] - location=('id', 'account')
+2020-03-24 10:59:33,212 INFO [base_page.py(find_element:15)] - location=('id', 'password')
+2020-03-24 10:59:33,562 INFO [base_page.py(find_element:15)] - location=('id', 'loginrec')
+2020-03-24 10:59:36,423 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 11:00:03,978 INFO [test_login.py(build_data:25)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 11:00:15,790 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 11:00:18,000 INFO [base_page.py(find_element:15)] - location=('link text', '中文机器快转')
+2020-03-24 11:01:47,138 INFO [test_login.py(build_data:25)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 11:01:56,384 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 11:01:59,816 INFO [base_page.py(find_element:15)] - location=('link text', '中文机器快转')
+2020-03-24 11:03:03,738 INFO [test_login.py(build_data:25)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 11:03:14,647 INFO [test_login.py(test_login:49)] - username=13716957736 pwd=yc111111 
+2020-03-24 11:03:14,648 INFO [base_page.py(find_element:15)] - location=('class name', 'login_icon')
+2020-03-24 11:03:17,729 INFO [base_page.py(find_element:15)] - location=('id', 'account')
+2020-03-24 11:03:18,236 INFO [base_page.py(find_element:15)] - location=('id', 'password')
+2020-03-24 11:03:18,606 INFO [base_page.py(find_element:15)] - location=('id', 'loginrec')
+2020-03-24 11:03:22,682 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 12:35:45,684 INFO [test_login.py(build_data:25)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 12:35:54,028 INFO [test_login.py(test_login:49)] - username=13716957736 pwd=yc111111 
+2020-03-24 12:35:54,029 INFO [base_page.py(find_element:15)] - location=('class name', 'login_icon')
+2020-03-24 12:35:57,284 INFO [base_page.py(find_element:15)] - location=('id', 'account')
+2020-03-24 12:35:57,765 INFO [base_page.py(find_element:15)] - location=('id', 'password')
+2020-03-24 12:35:58,088 INFO [base_page.py(find_element:15)] - location=('id', 'loginrec')
+2020-03-24 12:36:00,663 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 12:42:50,350 INFO [test_login.py(build_data:25)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 12:43:04,005 INFO [test_login.py(test_login:49)] - username=13716957736 pwd=yc111111 
+2020-03-24 12:43:04,005 INFO [base_page.py(find_element:15)] - location=('class name', 'login_icon')
+2020-03-24 12:43:06,557 INFO [base_page.py(find_element:15)] - location=('id', 'account')
+2020-03-24 12:43:07,625 INFO [base_page.py(find_element:15)] - location=('id', 'password')
+2020-03-24 12:43:08,366 INFO [base_page.py(find_element:15)] - location=('id', 'loginrec')
+2020-03-24 12:43:11,486 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 13:46:27,316 INFO [test_login.py(build_data:25)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 13:46:38,395 INFO [test_login.py(test_login:49)] - username=13716957736 pwd=yc111111 
+2020-03-24 13:46:38,395 INFO [base_page.py(find_element:15)] - location=('class name', 'login_icon')
+2020-03-24 13:46:40,736 INFO [base_page.py(find_element:15)] - location=('id', 'account')
+2020-03-24 13:46:41,076 INFO [base_page.py(find_element:15)] - location=('id', 'password')
+2020-03-24 13:46:41,289 INFO [base_page.py(find_element:15)] - location=('id', 'loginrec')
+2020-03-24 13:46:43,791 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 13:49:53,331 INFO [test_login.py(build_data:25)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 13:50:01,369 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 13:50:05,111 INFO [base_page.py(find_element:15)] - location=('link text', '中文机器快转')
+2020-03-24 13:50:44,637 INFO [test_login.py(build_data:25)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 13:50:51,943 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 13:50:55,816 INFO [base_page.py(find_element:15)] - location=('link text', '中文机器快转')
+2020-03-24 13:51:27,155 INFO [test_login.py(build_data:25)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 13:51:37,575 INFO [test_login.py(test_login:49)] - username=13716957736 pwd=yc111111 
+2020-03-24 13:51:37,575 INFO [base_page.py(find_element:15)] - location=('class name', 'login_icon')
+2020-03-24 13:51:39,901 INFO [base_page.py(find_element:15)] - location=('id', 'account')
+2020-03-24 13:51:40,206 INFO [base_page.py(find_element:15)] - location=('id', 'password')
+2020-03-24 13:51:40,416 INFO [base_page.py(find_element:15)] - location=('id', 'loginrec')
+2020-03-24 13:52:03,941 INFO [test_login.py(build_data:25)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 13:52:14,899 INFO [test_login.py(test_login:49)] - username=13716957736 pwd=yc111111 
+2020-03-24 13:52:14,899 INFO [base_page.py(find_element:15)] - location=('class name', 'login_icon')
+2020-03-24 13:52:17,274 INFO [base_page.py(find_element:15)] - location=('id', 'account')
+2020-03-24 13:52:17,522 INFO [base_page.py(find_element:15)] - location=('id', 'password')
+2020-03-24 13:52:17,777 INFO [base_page.py(find_element:15)] - location=('id', 'loginrec')
+2020-03-24 13:52:20,431 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 14:06:36,614 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 14:06:46,971 INFO [test_login.py(test_login:51)] - username=13716957736 pwd=yc111111 
+2020-03-24 14:06:46,972 INFO [base_page.py(find_element:15)] - location=('class name', 'login_icon')
+2020-03-24 14:06:49,985 INFO [base_page.py(find_element:15)] - location=('id', 'account')
+2020-03-24 14:06:50,450 INFO [base_page.py(find_element:15)] - location=('id', 'password')
+2020-03-24 14:06:51,255 INFO [base_page.py(find_element:15)] - location=('id', 'loginrec')
+2020-03-24 14:06:53,571 INFO [base_page.py(find_element:15)] - location=('xpath', '/ html / body / div[11] / div / span')
+2020-03-24 14:06:56,335 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 14:06:58,803 INFO [base_page.py(find_element:15)] - location=('link text', '中文机器快转')
+2020-03-24 14:18:12,747 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 14:18:20,488 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 14:18:25,273 INFO [base_page.py(find_element:15)] - location=('link text', '中文机器快转')
+2020-03-24 14:20:34,340 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 14:20:45,778 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 14:20:48,011 INFO [base_page.py(find_element:15)] - location=('link text', '中文机器快转')
+2020-03-24 14:20:49,769 INFO [base_page.py(find_element:15)] - location=('link text', '英文机器快转')
+2020-03-24 14:21:41,216 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 14:21:52,589 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 14:21:52,791 INFO [base_page.py(find_element:15)] - location=('link text', '中文机器快转')
+2020-03-24 14:21:54,300 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 14:21:56,563 INFO [base_page.py(find_element:15)] - location=('link text', '英文机器快转')
+2020-03-24 14:21:57,644 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 14:21:59,705 INFO [base_page.py(find_element:15)] - location=('link text', '实时语音转文字')
+2020-03-24 14:22:01,077 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 14:22:03,023 INFO [base_page.py(find_element:15)] - location=('link text', '人工翻译')
+2020-03-24 14:22:04,065 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 14:22:06,059 INFO [base_page.py(find_element:15)] - location=('link text', '机器翻译')
+2020-03-24 14:23:09,287 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 14:23:19,794 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 14:23:21,370 INFO [base_page.py(find_element:15)] - location=('link text', '中文机器快转')
+2020-03-24 14:23:25,157 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 14:23:27,932 INFO [base_page.py(find_element:15)] - location=('link text', '英文机器快转')
+2020-03-24 14:23:32,127 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 14:23:34,361 INFO [base_page.py(find_element:15)] - location=('link text', '实时语音转文字')
+2020-03-24 14:23:38,551 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 14:23:40,857 INFO [base_page.py(find_element:15)] - location=('link text', '人工翻译')
+2020-03-24 14:23:44,171 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 14:23:46,187 INFO [base_page.py(find_element:15)] - location=('link text', '机器翻译')
+2020-03-24 14:33:15,306 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 14:33:23,077 INFO [base_page.py(find_element:15)] - location=('xpath', "//*[@id='menu_list']/li[3]/p/font/font")
+2020-03-24 14:40:02,021 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 14:40:15,973 INFO [base_page.py(find_element:15)] - location=('class name', 'head-menu-hardware')
+2020-03-24 14:40:16,225 INFO [base_page.py(find_element:15)] - location=('xpath', '//*[@id="menu_list"]/li[3]/div/div/div[1]/a')
+2020-03-24 14:40:19,927 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 14:40:22,434 INFO [base_page.py(find_element:15)] - location=('xpath', '//*[@id="menu_list"]/li[3]/div/div/div[2]/a')
+2020-03-24 14:40:39,224 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 14:40:50,886 INFO [base_page.py(find_element:15)] - location=('class name', 'head-menu-hardware')
+2020-03-24 14:40:51,639 INFO [base_page.py(find_element:15)] - location=('xpath', '//*[@id="menu_list"]/li[3]/div/div/div[1]/a')
+2020-03-24 14:40:57,127 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 14:40:59,802 INFO [base_page.py(find_element:15)] - location=('xpath', '//*[@id="menu_list"]/li[3]/div/div/div[2]/a')
+2020-03-24 14:41:32,845 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 14:41:43,261 INFO [base_page.py(find_element:15)] - location=('class name', 'head-menu-hardware')
+2020-03-24 14:41:43,558 INFO [base_page.py(find_element:15)] - location=('xpath', '//*[@id="menu_list"]/li[3]/div/div/div[1]/a')
+2020-03-24 14:41:48,148 INFO [base_page.py(find_element:15)] - location=('class name', 'head-menu-hardware')
+2020-03-24 14:41:51,115 INFO [base_page.py(find_element:15)] - location=('xpath', '//*[@id="menu_list"]/li[3]/div/div/div[2]/a')
+2020-03-24 15:16:35,854 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 15:16:48,443 INFO [base_page.py(find_element:15)] - location=('class name', 'head-menu-server')
+2020-03-24 15:16:49,865 INFO [base_page.py(find_element:15)] - location=('partial link text', '机器快转')
+2020-03-24 15:16:53,374 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 15:17:18,528 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 15:17:26,904 INFO [base_page.py(find_element:15)] - location=('class name', 'head-menu-server')
+2020-03-24 15:17:28,856 INFO [base_page.py(find_element:15)] - location=('partial link text', '机器快转')
+2020-03-24 15:17:31,534 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 15:18:25,064 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 15:18:37,490 INFO [test_login.py(test_login:51)] - username=13716957736 pwd=yc111111 
+2020-03-24 15:18:37,490 INFO [base_page.py(find_element:15)] - location=('class name', 'login_icon')
+2020-03-24 15:18:39,859 INFO [base_page.py(find_element:15)] - location=('id', 'account')
+2020-03-24 15:18:40,158 INFO [base_page.py(find_element:15)] - location=('id', 'password')
+2020-03-24 15:18:40,402 INFO [base_page.py(find_element:15)] - location=('id', 'loginrec')
+2020-03-24 15:18:42,565 INFO [base_page.py(find_element:15)] - location=('xpath', '/ html / body / div[11] / div / span')
+2020-03-24 15:18:45,389 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 15:18:46,104 INFO [base_page.py(find_element:15)] - location=('link text', '中文机器快转')
+2020-03-24 15:18:49,429 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 15:18:51,526 INFO [base_page.py(find_element:15)] - location=('link text', '英文机器快转')
+2020-03-24 15:18:54,779 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 15:18:57,127 INFO [base_page.py(find_element:15)] - location=('link text', '实时语音转文字')
+2020-03-24 15:19:00,832 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 15:19:03,267 INFO [base_page.py(find_element:15)] - location=('link text', '人工翻译')
+2020-03-24 15:19:06,443 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 15:19:08,708 INFO [base_page.py(find_element:15)] - location=('link text', '机器翻译')
+2020-03-24 15:19:16,821 INFO [base_page.py(find_element:15)] - location=('class name', 'head-menu-hardware')
+2020-03-24 15:19:17,011 INFO [base_page.py(find_element:15)] - location=('xpath', '//*[@id="menu_list"]/li[3]/div/div/div[1]/a')
+2020-03-24 15:19:20,671 INFO [base_page.py(find_element:15)] - location=('class name', 'head-menu-hardware')
+2020-03-24 15:19:22,750 INFO [base_page.py(find_element:15)] - location=('xpath', '//*[@id="menu_list"]/li[3]/div/div/div[2]/a')
+2020-03-24 15:19:28,183 INFO [base_page.py(find_element:15)] - location=('class name', 'head-menu-server')
+2020-03-24 15:19:28,598 INFO [base_page.py(find_element:15)] - location=('partial link text', '机器快转')
+2020-03-24 15:19:31,763 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 15:19:38,096 INFO [base_page.py(find_element:15)] - location=('partial link text', '人工精转')
+2020-03-24 15:19:46,570 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 15:19:48,084 INFO [base_page.py(find_element:15)] - location=('link text', '多语种翻译')
+2020-03-24 15:19:55,286 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 15:20:02,220 INFO [base_page.py(find_element:15)] - location=('link text', '语音转文字')
+2020-03-24 15:20:07,002 INFO [base_page.py(find_element:15)] - location=('class name', 'menu-add')
+2020-03-24 15:37:01,561 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 15:37:12,852 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 15:37:13,343 INFO [base_page.py(find_element:16)] - location=('partial link text', '机器快转')
+2020-03-24 15:37:16,143 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 15:39:39,258 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 15:39:46,897 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 15:39:49,266 INFO [base_page.py(find_element:16)] - location=('partial link text', '机器快转')
+2020-03-24 15:40:14,885 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 15:40:26,277 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 15:40:27,005 INFO [base_page.py(find_element:16)] - location=('partial link text', '机器快转')
+2020-03-24 15:46:53,690 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 15:47:01,729 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 15:47:03,718 INFO [base_page.py(find_element:16)] - location=('partial link text', '机器快转')
+2020-03-24 15:47:09,255 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 15:47:11,137 INFO [base_page.py(find_element:16)] - location=('partial link text', '人工精转')
+2020-03-24 15:47:14,878 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 15:47:16,323 INFO [base_page.py(find_element:16)] - location=('link text', '多语种翻译')
+2020-03-24 15:47:55,404 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 15:48:07,031 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 15:48:07,555 INFO [base_page.py(find_element:16)] - location=('partial link text', '机器快转')
+2020-03-24 15:48:12,162 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 15:50:18,526 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 15:50:26,417 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 15:50:27,894 INFO [base_page.py(find_element:16)] - location=('partial link text', '机器快转')
+2020-03-24 15:50:32,469 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 15:52:59,816 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 15:53:08,368 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 15:53:09,558 INFO [base_page.py(find_element:16)] - location=('partial link text', '机器快转')
+2020-03-24 15:53:16,284 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 15:54:10,201 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 15:54:17,698 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 15:54:19,322 INFO [base_page.py(find_element:16)] - location=('partial link text', '机器快转')
+2020-03-24 15:56:42,042 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 15:56:52,879 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 15:56:53,244 INFO [base_page.py(find_element:16)] - location=('partial link text', '机器快转')
+2020-03-24 15:57:01,108 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 15:57:01,634 INFO [base_page.py(find_element:16)] - location=('partial link text', '人工精转')
+2020-03-24 15:58:15,540 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 15:58:26,529 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 15:58:26,852 INFO [base_page.py(find_element:16)] - location=('partial link text', '机器快转')
+2020-03-24 15:59:11,502 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 15:59:20,721 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 15:59:21,265 INFO [base_page.py(find_element:16)] - location=('partial link text', '机器快转')
+2020-03-24 15:59:47,761 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 15:59:58,599 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 15:59:59,154 INFO [base_page.py(find_element:16)] - location=('partial link text', '机器快转')
+2020-03-24 16:00:55,856 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 16:01:03,303 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:01:04,686 INFO [base_page.py(find_element:16)] - location=('partial link text', '机器快转')
+2020-03-24 16:01:14,690 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 16:01:16,162 INFO [base_page.py(find_element:16)] - location=('partial link text', '人工精转')
+2020-03-24 16:01:47,552 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 16:01:58,671 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:01:59,155 INFO [base_page.py(find_element:16)] - location=('partial link text', '机器快转')
+2020-03-24 16:02:07,370 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 16:02:07,964 INFO [base_page.py(find_element:16)] - location=('partial link text', '人工精转')
+2020-03-24 16:05:17,964 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 16:05:25,639 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:05:27,788 INFO [base_page.py(find_element:16)] - location=('partial link text', '机器快转')
+2020-03-24 16:05:32,229 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 16:05:32,780 INFO [base_page.py(find_element:16)] - location=('partial link text', '人工精转')
+2020-03-24 16:05:36,476 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 16:05:36,944 INFO [base_page.py(find_element:16)] - location=('link text', '多语种翻译')
+2020-03-24 16:06:56,194 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 16:07:03,790 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:07:05,116 INFO [base_page.py(find_element:16)] - location=('partial link text', '机器快转')
+2020-03-24 16:07:09,556 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:07:10,196 INFO [base_page.py(find_element:16)] - location=('partial link text', '人工精转')
+2020-03-24 16:07:12,536 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:07:12,900 INFO [base_page.py(find_element:16)] - location=('link text', '多语种翻译')
+2020-03-24 16:07:15,302 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:07:15,425 INFO [base_page.py(find_element:16)] - location=('link text', '语音转文字')
+2020-03-24 16:07:17,778 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:07:17,938 INFO [base_page.py(find_element:16)] - location=('link text', '多语种翻译')
+2020-03-24 16:07:20,178 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:07:20,367 INFO [base_page.py(find_element:16)] - location=('partial link text', '机器快转与人工精转有什么区别')
+2020-03-24 16:07:22,660 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:07:22,815 INFO [base_page.py(find_element:16)] - location=('partial link text', '网站转文字的收费标准是什么')
+2020-03-24 16:07:25,095 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:07:25,314 INFO [base_page.py(find_element:16)] - location=('partial link text', '网站支持哪些格式的音频转文字')
+2020-03-24 16:07:27,596 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:07:27,803 INFO [base_page.py(find_element:16)] - location=('partial link text', '人工翻译各级别的区别')
+2020-03-24 16:07:30,208 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:07:30,503 INFO [base_page.py(find_element:16)] - location=('link text', '更多')
+2020-03-24 16:07:32,872 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:07:33,047 INFO [base_page.py(find_element:16)] - location=('link text', '服务介绍')
+2020-03-24 16:07:43,229 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 16:07:51,347 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:07:52,885 INFO [base_page.py(find_element:16)] - location=('partial link text', '机器快转')
+2020-03-24 16:07:57,479 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:07:57,770 INFO [base_page.py(find_element:16)] - location=('partial link text', '人工精转')
+2020-03-24 16:08:00,170 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:08:00,477 INFO [base_page.py(find_element:16)] - location=('link text', '多语种翻译')
+2020-03-24 16:08:03,647 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:08:03,922 INFO [base_page.py(find_element:16)] - location=('link text', '语音转文字')
+2020-03-24 16:08:06,210 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:08:06,457 INFO [base_page.py(find_element:16)] - location=('link text', '多语种翻译')
+2020-03-24 16:08:08,807 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:08:08,992 INFO [base_page.py(find_element:16)] - location=('partial link text', '机器快转与人工精转有什么区别')
+2020-03-24 16:08:11,342 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:08:11,467 INFO [base_page.py(find_element:16)] - location=('partial link text', '网站转文字的收费标准是什么')
+2020-03-24 16:08:13,951 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:08:14,202 INFO [base_page.py(find_element:16)] - location=('partial link text', '网站支持哪些格式的音频转文字')
+2020-03-24 16:08:16,521 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:08:16,771 INFO [base_page.py(find_element:16)] - location=('partial link text', '人工翻译各级别的区别')
+2020-03-24 16:08:19,116 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:08:19,510 INFO [base_page.py(find_element:16)] - location=('link text', '更多')
+2020-03-24 16:08:21,973 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:08:22,152 INFO [base_page.py(find_element:16)] - location=('link text', '服务介绍')
+2020-03-24 16:16:21,461 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 16:16:31,194 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-enterprise-server')
+2020-03-24 16:16:32,929 INFO [base_page.py(find_element:16)] - location=('xpath', '//*[@id="cp"]/div/div/div[1]/a')
+2020-03-24 16:16:36,814 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-enterprise-server')
+2020-03-24 16:16:39,077 INFO [base_page.py(find_element:16)] - location=('xpath', "//*[@data-track='导航_企业帐号登录']")
+2020-03-24 16:16:43,115 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-enterprise-server')
+2020-03-24 16:16:44,969 INFO [base_page.py(find_element:16)] - location=('xpath', "//*[@data-track='导航_智能会议服务']")
+2020-03-24 16:16:50,136 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-enterprise-server')
+2020-03-24 16:16:52,011 INFO [base_page.py(find_element:16)] - location=('xpath', "//*[@data-track='导航_智能会议系统']")
+2020-03-24 16:16:55,960 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-enterprise-server')
+2020-03-24 16:16:58,104 INFO [base_page.py(find_element:16)] - location=('xpath', "//*[@data-track='导航_智慧媒体整体解决方案']")
+2020-03-24 16:28:55,081 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 16:29:07,979 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:29:08,817 INFO [base_page.py(find_element:16)] - location=('partial link text', '机器快转')
+2020-03-24 16:30:05,360 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 16:30:21,151 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:30:21,444 INFO [base_page.py(find_element:16)] - location=('partial link text', '机器快转')
+2020-03-24 16:30:26,582 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:30:26,816 INFO [base_page.py(find_element:16)] - location=('partial link text', '人工精转')
+2020-03-24 16:30:29,490 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:30:29,805 INFO [base_page.py(find_element:16)] - location=('link text', '多语种翻译')
+2020-03-24 16:30:32,484 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:30:33,069 INFO [base_page.py(find_element:16)] - location=('link text', '语音转文字')
+2020-03-24 16:30:35,822 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:30:36,227 INFO [base_page.py(find_element:16)] - location=('link text', '多语种翻译')
+2020-03-24 16:30:38,987 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:30:39,623 INFO [base_page.py(find_element:16)] - location=('partial link text', '机器快转与人工精转有什么区别')
+2020-03-24 16:31:13,697 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 16:31:27,669 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:31:28,304 INFO [base_page.py(find_element:16)] - location=('partial link text', '机器快转')
+2020-03-24 16:31:34,751 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:31:34,878 INFO [base_page.py(find_element:16)] - location=('partial link text', '人工精转')
+2020-03-24 16:31:37,571 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:31:37,856 INFO [base_page.py(find_element:16)] - location=('link text', '多语种翻译')
+2020-03-24 16:31:40,337 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:31:40,922 INFO [base_page.py(find_element:16)] - location=('link text', '语音转文字')
+2020-03-24 16:31:43,739 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:31:44,365 INFO [base_page.py(find_element:16)] - location=('link text', '多语种翻译')
+2020-03-24 16:31:47,066 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:31:47,433 INFO [base_page.py(find_element:16)] - location=('partial link text', '机器快转与人工精转有什么区别')
+2020-03-24 16:33:25,878 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 16:33:40,577 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:33:41,253 INFO [base_page.py(find_element:16)] - location=('partial link text', '机器快转')
+2020-03-24 16:33:46,656 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:33:46,873 INFO [base_page.py(find_element:16)] - location=('partial link text', '人工精转')
+2020-03-24 16:33:50,075 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:33:50,263 INFO [base_page.py(find_element:16)] - location=('link text', '多语种翻译')
+2020-03-24 16:33:53,010 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:33:53,368 INFO [base_page.py(find_element:16)] - location=('link text', '语音转文字')
+2020-03-24 16:33:56,090 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:33:56,201 INFO [base_page.py(find_element:16)] - location=('link text', '多语种翻译')
+2020-03-24 16:33:58,823 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:33:59,011 INFO [base_page.py(find_element:16)] - location=('partial link text', '机器快转与人工精转有什么区别')
+2020-03-24 16:34:01,517 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:34:01,654 INFO [base_page.py(find_element:16)] - location=('partial link text', '网站转文字的收费标准是什么')
+2020-03-24 16:34:04,164 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:34:04,263 INFO [base_page.py(find_element:16)] - location=('partial link text', '网站支持哪些格式的音频转文字')
+2020-03-24 16:34:06,863 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:34:07,112 INFO [base_page.py(find_element:16)] - location=('partial link text', '人工翻译各级别的区别')
+2020-03-24 16:34:09,963 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:34:10,209 INFO [base_page.py(find_element:16)] - location=('link text', '更多')
+2020-03-24 16:34:12,823 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 16:34:12,961 INFO [base_page.py(find_element:16)] - location=('link text', '服务介绍')
+2020-03-24 17:05:42,680 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 17:05:54,322 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 17:05:54,651 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 17:05:59,437 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 17:06:02,036 INFO [base_page.py(find_element:16)] - location=('link text', '中文人工精转')
+2020-03-24 17:06:06,370 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 17:06:09,607 INFO [base_page.py(find_element:16)] - location=('link text', '英文机器快转')
+2020-03-24 17:07:56,267 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 17:10:32,473 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 17:55:48,829 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 17:56:00,823 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 17:56:01,710 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 18:07:57,191 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 18:08:05,299 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 18:08:06,801 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 18:08:58,818 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 18:09:06,550 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 18:09:07,610 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 18:13:18,544 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 18:13:25,661 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 18:13:27,677 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 18:30:06,881 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 18:30:22,096 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 18:30:22,982 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 18:35:30,919 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 18:35:41,905 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 18:35:42,151 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 18:38:00,437 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 18:38:09,248 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 18:38:10,587 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 18:39:58,438 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 18:40:06,316 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 18:40:08,674 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 18:41:37,830 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 18:41:47,353 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 18:41:48,717 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 18:44:49,159 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 18:44:57,970 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 18:44:58,168 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 18:45:50,440 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 18:45:57,940 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 18:45:59,189 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 18:48:17,366 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 18:48:26,324 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 18:48:28,376 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 18:49:48,885 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 18:49:59,417 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 18:50:00,068 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 18:52:34,462 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 18:52:42,948 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 18:52:45,803 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 18:56:52,906 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 18:57:00,748 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 18:57:04,308 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 18:58:12,945 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 18:58:24,601 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 18:58:24,848 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 18:59:19,667 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 18:59:27,499 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 18:59:29,368 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 19:00:46,662 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 19:00:54,374 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 19:00:55,790 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 19:02:31,792 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 19:02:41,131 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 19:02:42,430 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 19:07:24,109 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 19:07:35,200 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 19:07:36,121 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 19:08:17,134 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 19:08:33,743 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 19:08:36,485 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 19:09:16,963 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 19:09:24,594 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 19:09:25,027 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 19:18:44,661 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 19:19:18,632 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 19:19:19,329 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 19:22:32,488 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 19:22:57,922 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 19:22:58,543 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 19:24:02,667 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 19:24:12,275 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 19:24:14,043 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 19:27:51,390 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 19:27:59,200 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 19:27:59,656 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 19:32:02,648 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 19:32:11,719 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 19:32:13,313 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 19:33:44,343 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 19:33:51,752 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 19:33:53,125 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 19:35:03,482 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 19:35:14,627 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 19:35:16,248 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 19:36:30,818 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 19:36:39,167 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 19:36:41,185 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 19:37:12,115 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 19:37:26,262 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 19:37:26,593 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 20:10:31,451 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 20:10:39,085 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 20:10:40,473 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 20:14:04,242 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 20:14:12,687 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 20:14:13,593 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 20:15:10,756 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 20:15:19,632 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 20:15:20,669 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 20:16:34,500 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 20:16:41,540 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 20:16:43,181 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 20:17:27,502 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 20:17:36,637 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 20:17:37,896 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 21:03:32,193 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 21:03:46,044 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 21:03:59,420 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 21:04:08,548 INFO [base_action.py(save_screenshot:61)] - 开始截图并保存
+2020-03-24 21:08:25,938 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 21:08:42,597 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 21:08:44,057 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 21:08:54,457 INFO [base_action.py(save_screenshot:61)] - 开始截图并保存
+2020-03-24 21:11:27,050 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 21:11:36,880 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 21:11:38,459 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 21:11:43,172 INFO [base_action.py(save_screenshot:61)] - 开始截图并保存
+2020-03-24 21:12:26,507 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 21:12:38,033 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 21:12:38,706 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 21:12:43,139 INFO [base_action.py(save_screenshot:61)] - 开始截图并保存
+2020-03-24 21:13:52,742 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 21:14:01,850 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 21:14:04,506 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 21:14:12,034 INFO [base_action.py(save_screenshot:61)] - 开始截图并保存
+2020-03-24 21:14:35,728 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 21:15:52,134 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 21:15:53,267 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 21:16:06,347 INFO [base_action.py(save_screenshot:61)] - 开始截图并保存
+2020-03-24 21:16:39,177 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 21:16:47,167 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 21:16:48,535 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 21:17:03,975 INFO [base_action.py(save_screenshot:61)] - 开始截图并保存
+2020-03-24 21:19:14,269 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 21:19:22,120 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 21:19:24,501 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 21:19:29,280 INFO [base_action.py(save_screenshot:61)] - 开始截图并保存
+2020-03-24 21:20:54,372 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 21:21:24,968 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 21:21:25,611 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 21:21:47,306 INFO [base_action.py(save_screenshot:61)] - 开始截图并保存
+2020-03-24 21:22:29,842 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 21:22:40,764 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 21:22:41,681 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 21:22:52,960 INFO [base_action.py(save_screenshot:61)] - 开始截图并保存
+2020-03-24 21:23:47,901 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 21:24:00,454 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 21:24:01,005 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 21:24:07,567 INFO [base_action.py(save_screenshot:61)] - 开始截图并保存
+2020-03-24 21:27:13,580 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 21:27:22,203 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 21:27:23,285 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 21:27:27,608 INFO [base_action.py(save_screenshot:61)] - 开始截图并保存
+2020-03-24 21:28:28,765 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 21:29:03,378 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 21:29:03,993 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 22:09:59,463 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 22:10:09,137 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 22:10:10,032 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 22:10:15,070 INFO [base_action.py(save_screenshot:61)] - 开始截图并保存
+2020-03-24 22:11:41,289 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 22:11:53,798 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 22:11:54,619 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 22:11:58,885 INFO [base_action.py(save_screenshot:61)] - 开始截图并保存
+2020-03-24 22:12:33,074 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 22:12:41,334 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 22:12:43,958 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 22:12:47,860 INFO [base_action.py(save_screenshot:61)] - 开始截图并保存
+2020-03-24 22:16:39,025 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 22:16:52,812 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 22:16:53,382 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 22:18:15,777 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 22:18:26,992 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 22:18:27,240 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 22:18:32,140 INFO [base_action.py(save_screenshot:61)] - 开始截图并保存
+2020-03-24 22:19:05,192 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 22:19:14,091 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 22:19:15,198 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 22:19:19,991 INFO [base_action.py(save_screenshot:61)] - 开始截图并保存
+2020-03-24 22:20:08,797 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 22:20:19,910 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 22:20:20,141 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 22:20:27,107 INFO [base_action.py(save_screenshot:48)] - 开始截图并保存
+2020-03-24 22:21:54,853 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 22:22:04,667 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 22:22:06,450 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 22:22:10,989 INFO [base_action.py(save_screenshot:46)] - 开始截图并保存
+2020-03-24 22:27:50,996 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 22:28:01,043 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 22:28:03,542 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 22:28:07,797 INFO [base_action.py(save_screenshot:47)] - 开始截图并保存
+2020-03-24 22:42:43,376 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 22:42:55,090 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 22:43:18,203 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 22:43:23,455 INFO [base_action.py(save_screenshot:47)] - 开始截图并保存
+2020-03-24 22:57:04,355 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 23:00:43,399 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 23:02:54,620 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 23:03:06,276 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 23:04:01,039 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 23:04:09,900 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 23:04:10,635 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 23:04:15,192 INFO [base_action.py(save_screenshot:47)] - 开始截图并保存
+2020-03-24 23:56:32,787 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 23:56:44,283 INFO [test_login.py(test_login:49)] - username=13716957736 pwd=yc111111 
+2020-03-24 23:56:44,283 INFO [base_page.py(find_element:16)] - location=('class name', 'login_icon')
+2020-03-24 23:56:47,452 INFO [base_page.py(find_element:16)] - location=('id', 'account')
+2020-03-24 23:56:48,264 INFO [base_page.py(find_element:16)] - location=('id', 'password')
+2020-03-24 23:56:50,316 INFO [base_page.py(find_element:16)] - location=('id', 'loginrec')
+2020-03-24 23:56:53,192 INFO [base_page.py(find_element:16)] - location=('xpath', '/ html / body / div[11] / div / span')
+2020-03-24 23:56:55,751 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 23:56:56,541 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 23:57:00,554 INFO [base_action.py(save_screenshot:47)] - 开始截图并保存
+2020-03-24 23:57:08,374 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-hardware')
+2020-03-24 23:57:08,863 INFO [base_page.py(find_element:16)] - location=('xpath', '//*[@id="menu_list"]/li[3]/div/div/div[1]/a')
+2020-03-24 23:57:13,137 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-hardware')
+2020-03-24 23:57:15,882 INFO [base_page.py(find_element:16)] - location=('xpath', '//*[@id="menu_list"]/li[3]/div/div/div[2]/a')
+2020-03-24 23:57:22,705 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-24 23:57:23,297 INFO [base_page.py(find_element:16)] - location=('partial link text', '机器快转')
+2020-03-24 23:58:57,832 INFO [test_login.py(build_data:26)] - test_data=[('13716957736', 'yc111111')]
+2020-03-24 23:59:07,908 INFO [test_login.py(test_login:49)] - username=13716957736 pwd=yc111111 
+2020-03-24 23:59:07,909 INFO [base_page.py(find_element:16)] - location=('class name', 'login_icon')
+2020-03-24 23:59:10,425 INFO [base_page.py(find_element:16)] - location=('id', 'account')
+2020-03-24 23:59:11,644 INFO [base_page.py(find_element:16)] - location=('id', 'password')
+2020-03-24 23:59:13,280 INFO [base_page.py(find_element:16)] - location=('id', 'loginrec')
+2020-03-24 23:59:15,690 INFO [base_page.py(find_element:16)] - location=('xpath', '/ html / body / div[11] / div / span')
+2020-03-24 23:59:18,238 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 23:59:19,139 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-24 23:59:22,963 INFO [base_action.py(save_screenshot:47)] - 开始截图并保存
+2020-03-24 23:59:28,391 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 23:59:28,590 INFO [base_page.py(find_element:16)] - location=('link text', '中文人工精转')
+2020-03-24 23:59:32,290 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 23:59:34,415 INFO [base_page.py(find_element:16)] - location=('link text', '英文机器快转')
+2020-03-24 23:59:38,730 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 23:59:41,099 INFO [base_page.py(find_element:16)] - location=('link text', '实时语音转文字')
+2020-03-24 23:59:45,439 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 23:59:47,546 INFO [base_page.py(find_element:16)] - location=('link text', '人工翻译')
+2020-03-24 23:59:51,216 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-24 23:59:53,212 INFO [base_page.py(find_element:16)] - location=('link text', '机器翻译')
+2020-03-24 23:59:59,177 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-hardware')
+2020-03-24 23:59:59,713 INFO [base_page.py(find_element:16)] - location=('xpath', '//*[@id="menu_list"]/li[3]/div/div/div[1]/a')

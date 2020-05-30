@@ -1,0 +1,226 @@
+2020-03-25 00:00:04,162 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-hardware')
+2020-03-25 00:00:06,138 INFO [base_page.py(find_element:16)] - location=('xpath', '//*[@id="menu_list"]/li[3]/div/div/div[2]/a')
+2020-03-25 00:00:26,513 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-25 00:00:27,110 INFO [base_page.py(find_element:16)] - location=('partial link text', '机器快转')
+2020-03-25 00:00:33,796 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-25 00:00:33,892 INFO [base_page.py(find_element:16)] - location=('partial link text', '人工精转')
+2020-03-25 00:00:38,445 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-25 00:00:38,497 INFO [base_page.py(find_element:16)] - location=('link text', '多语种翻译')
+2020-03-25 00:00:42,956 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-25 00:00:43,005 INFO [base_page.py(find_element:16)] - location=('link text', '语音转文字')
+2020-03-25 00:00:47,701 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-25 00:00:47,787 INFO [base_page.py(find_element:16)] - location=('link text', '多语种翻译')
+2020-03-25 00:00:52,556 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-25 00:00:52,683 INFO [base_page.py(find_element:16)] - location=('partial link text', '机器快转与人工精转有什么区别')
+2020-03-25 00:00:57,345 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-25 00:00:57,390 INFO [base_page.py(find_element:16)] - location=('partial link text', '网站转文字的收费标准是什么')
+2020-03-25 00:01:01,796 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-25 00:01:01,857 INFO [base_page.py(find_element:16)] - location=('partial link text', '网站支持哪些格式的音频转文字')
+2020-03-25 00:01:06,360 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-25 00:01:06,418 INFO [base_page.py(find_element:16)] - location=('partial link text', '人工翻译各级别的区别')
+2020-03-25 00:01:10,968 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-25 00:01:11,027 INFO [base_page.py(find_element:16)] - location=('link text', '更多')
+2020-03-25 00:01:15,573 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-server')
+2020-03-25 00:01:16,157 INFO [base_page.py(find_element:16)] - location=('link text', '服务介绍')
+2020-03-25 00:01:23,675 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-enterprise-server')
+2020-03-25 00:01:24,187 INFO [base_page.py(find_element:16)] - location=('xpath', '//*[@id="cp"]/div/div/div[1]/a')
+2020-03-25 00:01:27,857 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-enterprise-server')
+2020-03-25 00:01:30,069 INFO [base_page.py(find_element:16)] - location=('xpath', "//*[@data-track='导航_企业帐号登录']")
+2020-03-25 00:01:34,523 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-enterprise-server')
+2020-03-25 00:01:36,751 INFO [base_page.py(find_element:16)] - location=('xpath', "//*[@data-track='导航_智能会议服务']")
+2020-03-25 00:01:41,832 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-enterprise-server')
+2020-03-25 00:01:44,331 INFO [base_page.py(find_element:16)] - location=('xpath', "//*[@data-track='导航_智能会议系统']")
+2020-03-25 00:01:48,244 INFO [base_page.py(find_element:16)] - location=('class name', 'head-menu-enterprise-server')
+2020-03-25 00:01:50,469 INFO [base_page.py(find_element:16)] - location=('xpath', "//*[@data-track='导航_智慧媒体整体解决方案']")
+2020-03-25 00:06:56,086 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 00:07:10,201 INFO [test_login.py(test_login:51)] - username=13716957736 pwd=yc111111 
+2020-03-25 00:07:10,201 INFO [base_page.py(find_element:16)] - location=('class name', 'login_icon')
+2020-03-25 00:07:12,740 INFO [base_page.py(find_element:16)] - location=('id', 'account')
+2020-03-25 00:07:14,475 INFO [base_page.py(find_element:16)] - location=('id', 'password')
+2020-03-25 00:07:16,273 INFO [base_page.py(find_element:16)] - location=('id', 'loginrec')
+2020-03-25 00:07:17,472 INFO [base_action.py(save_screenshot:47)] - 开始截图并保存
+2020-03-25 00:09:49,528 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 00:09:59,073 INFO [test_login.py(test_login:51)] - username=13716957736 pwd=yc111111 
+2020-03-25 00:09:59,073 INFO [base_page.py(find_element:16)] - location=('class name', 'login_icon')
+2020-03-25 00:10:02,499 INFO [base_page.py(find_element:16)] - location=('id', 'account')
+2020-03-25 00:10:03,514 INFO [base_page.py(find_element:16)] - location=('id', 'password')
+2020-03-25 00:10:04,330 INFO [base_page.py(find_element:16)] - location=('id', 'loginrec')
+2020-03-25 00:10:06,248 INFO [base_action.py(save_screenshot:47)] - 开始截图并保存
+2020-03-25 00:10:45,684 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 00:10:54,214 INFO [test_login.py(test_login:51)] - username=13716957736 pwd=yc111111 
+2020-03-25 00:10:54,219 INFO [base_page.py(find_element:16)] - location=('class name', 'login_icon')
+2020-03-25 00:10:57,994 INFO [base_page.py(find_element:16)] - location=('id', 'account')
+2020-03-25 00:10:59,053 INFO [base_page.py(find_element:16)] - location=('id', 'password')
+2020-03-25 00:10:59,832 INFO [base_page.py(find_element:16)] - location=('id', 'loginrec')
+2020-03-25 00:11:01,527 INFO [base_action.py(save_screenshot:47)] - 开始截图并保存
+2020-03-25 10:02:26,909 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 10:02:35,280 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 10:02:35,662 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 10:02:39,468 INFO [base_action.py(save_screenshot:47)] - 开始截图并保存
+2020-03-25 10:03:20,778 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 10:03:29,153 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 10:03:29,920 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 10:03:34,235 INFO [base_action.py(save_screenshot:47)] - 开始截图并保存
+2020-03-25 10:04:17,479 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 10:04:24,344 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 10:04:25,951 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 10:04:30,189 INFO [base_action.py(save_screenshot:47)] - 开始截图并保存
+2020-03-25 11:30:59,231 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 11:31:06,564 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 11:31:07,777 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 11:31:11,637 INFO [base_action.py(save_screenshot:48)] - 开始截图并保存
+2020-03-25 11:31:35,641 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 11:31:44,464 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 11:34:53,881 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 11:35:03,265 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 11:35:03,391 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 11:35:07,594 INFO [base_action.py(save_screenshot:48)] - 开始截图并保存
+2020-03-25 11:35:58,430 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 11:36:05,558 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 11:36:07,109 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 11:36:12,045 INFO [base_action.py(save_screenshot:48)] - 开始截图并保存
+2020-03-25 11:41:05,535 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 11:41:12,693 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 11:41:13,468 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 11:41:17,380 INFO [base_action.py(save_screenshot:48)] - 开始截图并保存
+2020-03-25 12:03:01,841 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 12:03:09,932 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 12:03:10,529 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 12:03:14,850 INFO [base_action.py(save_screenshot:48)] - 开始截图并保存
+2020-03-25 12:06:43,850 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 12:06:53,341 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 12:06:53,473 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 12:06:57,658 INFO [base_action.py(save_screenshot:48)] - 开始截图并保存
+2020-03-25 12:08:16,272 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 12:08:23,478 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 12:08:24,050 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 12:08:28,710 INFO [base_action.py(save_screenshot:48)] - 开始截图并保存
+2020-03-25 13:17:58,555 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 13:18:05,784 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 13:18:07,306 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 13:18:11,749 INFO [base_action.py(save_screenshot:48)] - 开始截图并保存
+2020-03-25 13:21:09,171 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 13:21:17,444 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 13:21:18,142 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 13:21:21,920 INFO [base_action.py(save_screenshot:48)] - 开始截图并保存
+2020-03-25 13:22:09,036 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 13:22:17,346 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 13:22:18,255 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 13:22:22,202 INFO [base_action.py(save_screenshot:48)] - 开始截图并保存
+2020-03-25 13:24:22,043 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 13:24:32,835 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 13:24:32,991 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 13:24:36,952 INFO [base_action.py(save_screenshot:48)] - 开始截图并保存
+2020-03-25 13:26:03,832 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 13:26:14,417 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 13:26:14,515 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 13:26:18,549 INFO [base_action.py(save_screenshot:48)] - 开始截图并保存
+2020-03-25 13:28:08,914 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 13:28:16,527 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 13:28:17,185 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 13:28:21,495 INFO [base_action.py(save_screenshot:48)] - 开始截图并保存
+2020-03-25 13:40:59,036 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 13:41:07,629 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 13:41:07,860 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 13:41:12,106 INFO [base_action.py(save_screenshot:48)] - 开始截图并保存
+2020-03-25 13:43:02,046 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 13:43:13,560 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 13:43:13,671 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 13:43:17,339 INFO [base_action.py(save_screenshot:48)] - 开始截图并保存
+2020-03-25 14:04:22,307 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 14:04:31,914 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 14:04:32,271 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 14:04:36,715 INFO [base_action.py(save_screenshot:50)] - 开始截图并保存
+2020-03-25 14:42:07,123 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 14:42:16,299 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 14:42:16,697 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 14:42:20,935 INFO [base_action.py(save_screenshot:50)] - 开始截图并保存
+2020-03-25 14:59:34,443 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 14:59:41,819 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 14:59:42,488 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 14:59:46,713 INFO [base_action.py(save_screenshot:50)] - 开始截图并保存
+2020-03-25 14:59:51,966 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 14:59:52,122 INFO [base_page.py(find_element:16)] - location=('link text', '中文人工精转')
+2020-03-25 14:59:55,839 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 14:59:57,221 INFO [base_page.py(find_element:16)] - location=('link text', '英文机器快转')
+2020-03-25 15:00:01,096 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 15:00:02,457 INFO [base_page.py(find_element:16)] - location=('link text', '实时语音转文字')
+2020-03-25 15:00:06,260 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 15:00:07,897 INFO [base_page.py(find_element:16)] - location=('link text', '人工翻译')
+2020-03-25 15:00:11,035 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 15:00:12,518 INFO [base_page.py(find_element:16)] - location=('link text', '机器翻译')
+2020-03-25 15:01:05,304 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 15:01:15,148 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 15:01:15,636 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 15:01:19,641 INFO [base_action.py(save_screenshot:50)] - 开始截图并保存
+2020-03-25 15:01:24,943 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 15:01:25,031 INFO [base_page.py(find_element:16)] - location=('link text', '中文人工精转')
+2020-03-25 15:01:28,891 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 15:01:30,374 INFO [base_page.py(find_element:16)] - location=('link text', '英文机器快转')
+2020-03-25 15:01:34,242 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 15:01:35,946 INFO [base_page.py(find_element:16)] - location=('link text', '实时语音转文字')
+2020-03-25 15:01:40,140 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 15:01:41,632 INFO [base_page.py(find_element:16)] - location=('link text', '人工翻译')
+2020-03-25 15:01:45,339 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 15:01:46,835 INFO [base_page.py(find_element:16)] - location=('link text', '机器翻译')
+2020-03-25 15:02:19,313 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 15:02:27,558 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 15:02:28,316 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 15:02:31,980 INFO [base_action.py(save_screenshot:50)] - 开始截图并保存
+2020-03-25 15:05:23,218 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 15:05:30,237 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 15:05:31,069 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 15:05:36,599 INFO [base_action.py(save_screenshot:50)] - 开始截图并保存
+2020-03-25 15:18:37,336 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 15:18:47,763 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 15:18:47,928 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 15:18:51,961 INFO [base_page.py(save_screenshot:73)] - 开始截图并保存
+2020-03-25 15:19:38,497 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 15:19:47,340 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 15:19:48,493 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 15:19:53,173 INFO [base_page.py(save_screenshot:73)] - 开始截图并保存
+2020-03-25 15:23:05,425 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 15:23:16,108 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 15:23:16,217 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 15:23:20,035 INFO [base_page.py(save_screenshot:73)] - 开始截图并保存
+2020-03-25 15:24:44,212 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 15:24:54,200 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 15:24:54,697 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 15:24:58,806 INFO [base_page.py(save_screenshot:73)] - 开始截图并保存
+2020-03-25 15:27:09,167 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 15:27:22,848 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 15:27:22,955 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 15:27:28,921 INFO [base_page.py(save_screenshot:73)] - 开始截图并保存
+2020-03-25 15:27:49,049 INFO [base_page.py(find_element:16)] - location=('link text', '关于我们')
+2020-03-25 15:34:30,965 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 15:34:39,065 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 15:34:39,906 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 15:34:43,799 INFO [base_page.py(save_screenshot:73)] - 开始截图并保存
+2020-03-25 15:35:35,793 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 15:35:46,804 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 15:35:46,951 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 15:35:50,946 INFO [base_page.py(save_screenshot:73)] - 开始截图并保存
+2020-03-25 15:36:45,296 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 15:36:54,528 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 15:36:54,692 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 15:36:58,041 INFO [base_page.py(save_screenshot:73)] - 开始截图并保存
+2020-03-25 15:40:33,194 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 15:40:44,306 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 15:40:44,423 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 15:40:48,398 INFO [base_page.py(save_screenshot:73)] - 开始截图并保存
+2020-03-25 15:43:28,942 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 15:43:38,634 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 15:43:38,950 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 15:43:43,366 INFO [base_page.py(save_screenshot:73)] - 开始截图并保存
+2020-03-25 15:50:04,141 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 15:50:13,083 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 15:50:13,226 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 15:50:17,226 INFO [base_page.py(save_screenshot:73)] - 开始截图并保存
+2020-03-25 15:53:16,836 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 15:53:26,696 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 15:53:26,807 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 15:53:30,644 INFO [base_page.py(save_screenshot:73)] - 开始截图并保存
+2020-03-25 15:54:28,078 INFO [test_login.py(build_data:27)] - test_data=[('13716957736', 'yc111111')]
+2020-03-25 15:54:35,783 INFO [base_page.py(find_element:16)] - location=('class name', 'menu-add')
+2020-03-25 15:54:37,757 INFO [base_page.py(find_element:16)] - location=('link text', '中文机器快转')
+2020-03-25 15:54:43,630 INFO [base_page.py(save_screenshot:73)] - 开始截图并保存
